@@ -1,7 +1,8 @@
 # Profile Page
 ## About me
 Known as **Shreya Jain**. I am one of the prospecting students in the mathematics and computing department at IIT Goa. Hailing from Haryana. I am truly an ordinary individual. Do not let my appearance or words deceive you.
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FChorr_Police&psig=AOvVaw2RkVFrRGyzQh3zcjUypMOl&ust=1707372394534000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjI-v_HmIQDFQAAAAAdAAAAABAE
+![image](https://github.com/shreyajain1970/lab6/assets/158248332/ffecf997-4553-4de9-a877-18d85af07ead)
+
 ## Education
 |Academic year | standard | School|
 |---|---|---|
