@@ -1,1 +1,14 @@
-div.div1 {border=2; 
+div.div1 {border:2; background-color:#FEA993}
+b.name {font: bold 14px/28px Times, Serif}
+img.pfp {float:"right" width:172px height:173px}
+p.p1 {font: sans-serif; color:0000FF}
+
+  table {border-spacing:10; background-color:#ADD8E6; padding:10px}
+  th.header {font: italic}
+  tr.t1 {align:left}
+  tr.t2 {align:center}
+  div.aut {background-color:#00FF00; border:3pt}
+div.spr {background-color:#FFB6C1; border:3pt}
+ol {list-style-type:lower-roman}
+div.hip {font: Comic Sans MS, cursive;}
+  
