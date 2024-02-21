@@ -4,7 +4,7 @@ img.pfp {float:"right" width:172px height:173px}
 p.p1 {font: sans-serif; color:0000FF}
 
   table {border-spacing:10; background-color:#ADD8E6; padding:10px}
-  th.header {font: italic}
+  th {text-decoration: underline}
   tr.t1 {align:left}
   tr.t2 {align:center}
   div.aut {background-color:#00FF00; border:3pt}
